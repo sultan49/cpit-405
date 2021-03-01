@@ -1,0 +1,14 @@
+h1 {text-align:center;color:#A4A400;background-color:#F0F0F0;font-family:Lucida Sans Unicode;font-size:22pt;font-weight:bold;text-decoration:underline;}
+h2 {text-align: left;color:#A4A400;font-family:Arial;font-size:18pt;font-weight:normal;text-decoration:underline;}
+h3{text-align:center;color:grey;font-family:Georgia;font-size:11pt;font-weight:normal;}
+h4{font-family:Georgia;font-size:11pt;font-weight:normal;font-style:italic;margin-left:25px;}
+h5 {text-align: right;color:#A4A400;font-family:Arial;font-size:11pt;font-weight:normal;}
+p1{color:#404040;font-family:Georgia;font-size:11pt;}
+
+ul.a {list-style-type:circle;margin-left:35px;font-weight:normal;}
+ol {font-weight:bold;}
+
+img {width: 270px;}
+
+a.i {background-image: url("w3c-html.png");display: inline-block; width: 225px;height:79px;}
+a.ii {background-image: url("w3c-css.png");display: inline-block; width: 225px;height:79px;text-align: center;}
